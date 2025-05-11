@@ -1,9 +1,10 @@
 <p align="center">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" alt="English">
+    English
   </a>
+    |
   <a href="README.ar.md">
-    <img src="https://img.shields.io/badge/lang-العربية-green?style=flat-square" alt="Arabic">
+    العربية
   </a>
 </p>
 
