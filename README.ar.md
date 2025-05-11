@@ -1,10 +1,10 @@
 <p align="center">
   <a href="README.md">
-    العربية
+    English
   </a>
     |
   <a href="README.ar.md">
-    English
+    العربية
   </a>
 </p>
 
