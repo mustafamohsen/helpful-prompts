@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" alt="English">
+  </a>
+  <a href="README.ar.md">
+    <img src="https://img.shields.io/badge/lang-العربية-green?style=flat-square" alt="Arabic">
+  </a>
+</p>
+
 # Helpful Prompts
 
 A curated collection of powerful prompts designed to **extend, restart, or transfer** high-quality conversations across LLMs like ChatGPT, Claude, Gemini, and others.
