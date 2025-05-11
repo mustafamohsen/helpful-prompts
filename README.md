@@ -41,4 +41,3 @@ Have a reusable meta-prompt that solves a hard interaction problem?
 ## 📝 License
 
 MIT © Mustafa Mohsen  
-See [`LICENSE`](LICENSE) for full terms.
