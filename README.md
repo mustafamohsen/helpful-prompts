@@ -25,7 +25,7 @@ Each prompt in this repo is crafted to solve a recurring problem in how people i
 
 ## 🚀 Quick Start
 
-Each prompt is self contained and kept minimal, comment free
+Each prompt is self contained and kept minimal, comment free. Just copy and paste
 
 ---
 
