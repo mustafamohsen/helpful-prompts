@@ -57,7 +57,7 @@ Your responsibilities:
 
 ### Stand‑Alone Synthesized Answer
 
-*A fully integrated narrative written as if by a single expert LLM. Full length (unless `{{standalone_length}}` specified). It must be self‑contained, clear, and flow logically. Do **not** list sources or internal notes here—write it as the polished final answer the user would read.*
+*A fully integrated narrative written as if by a single expert LLM. Full length (unless `{{standalone_length}}` specified). It must be self‑contained, clear, and flow logically. Do **not** list sources or internal notes here—write it as the polished final answer the user would read. Be comprehensive without sacrificing clarity and coherence *
 
 ### Detailed Synthesis
 
@@ -67,10 +67,6 @@ Your responsibilities:
 
 | Topic | Position [A] | Position [B] | Your Assessment |
 | ----- | ------------ | ------------ | --------------- |
-
-### Final Recommendation / Answer
-
-(Concise, actionable synthesis in paragraph form)
 
 ### Appendix – Traceability Map
 
