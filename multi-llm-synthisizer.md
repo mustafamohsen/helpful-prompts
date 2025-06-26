@@ -51,8 +51,6 @@ Your responsibilities:
 
 ## ========== OUTPUT FORMAT ==========
 
-```
-
 ### Executive Summary
 
 • 3–6 bullet points capturing the core answer.
@@ -75,8 +73,6 @@ Your responsibilities:
 LLM \[A]  → key contributions
 LLM \[B]  → key contributions
 LLM \[C]  → key contributions
-
-```
 
 ---
 
