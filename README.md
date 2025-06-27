@@ -11,6 +11,7 @@ Each prompt in this repo is crafted to solve a recurring problem in how people i
 | Prompt Name            | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | `meta-prompt.md` | Turns any finished conversation into a portable, high-fidelity prompt to continue in a new thread or model. |
+| `multi-llm-synthisizer.md` | Fuses multiple LLM outputs into one clear, accurate, non-redundant answer with structured analysis and synthesis. |
 | *(more coming soon…)*       | New utilities will cover debugging prompts, context compression, few-shot embedding, and more.          |
 
 ---
